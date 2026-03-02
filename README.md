@@ -31,6 +31,6 @@ https://github.com/netology-code/sdb-homeworks/blob/main/11-03.md
 
 Скриншоты интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat.
 
-<img src = "img/zadanie4.1png" width = 100%>
-<img src = "img/zadanie4.2png" width = 100%>
+<img src = "img/zadanie4.1.png" width = 100%>
+<img src = "img/zadanie4.2.png" width = 100%>
 
